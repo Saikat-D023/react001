@@ -6,6 +6,8 @@ function App() {
     <>
       <div style={{backgroundColor: "#dfe6e9", height: "100vh" }}>
         <PostComponent />
+        <PostComponent />
+        <PostComponent />
       </div>
     </>
   )
