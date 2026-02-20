@@ -32,7 +32,7 @@ export function Hero() {
                     Start Free
                 </Link>
                 <Link
-                    href="#demo"
+                    href="/demo"
                     className="w-full sm:w-auto inline-flex items-center justify-center rounded-full bg-gray-100 text-black px-10 py-4 text-sm font-medium transition-all hover:bg-gray-200"
                 >
                     See Demo
